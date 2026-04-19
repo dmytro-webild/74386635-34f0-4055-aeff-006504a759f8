@@ -67,7 +67,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/5g-global-network-background-technology-with-futuristic-transparent-smartphone-remixed-media_53876-108513.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/5g-global-network-background-technology-with-futuristic-transparent-smartphone-remixed-media_53876-108513.jpg?_wi=1"
       showDimOverlay={true}
       avatars={[
         {
@@ -162,7 +162,7 @@ export default function LandingPage() {
           price: "$999",
           rating: 5,
           reviewCount: "1.2k",
-          imageSrc: "http://img.b2bpic.net/free-photo/mockup-mobile-phone-screen_53876-63379.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/mockup-mobile-phone-screen_53876-63379.jpg?_wi=1",
         },
         {
           id: "p2",
@@ -250,7 +250,7 @@ export default function LandingPage() {
           button: {
             text: "Choose",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/5g-global-network-background-technology-with-futuristic-transparent-smartphone-remixed-media_53876-108513.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/5g-global-network-background-technology-with-futuristic-transparent-smartphone-remixed-media_53876-108513.jpg?_wi=2",
           imageAlt: "Sleek Black Smartphone on a Reflective Surface",
         },
         {
@@ -266,7 +266,7 @@ export default function LandingPage() {
           button: {
             text: "Choose",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/mockup-mobile-phone-screen_53876-63379.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/mockup-mobile-phone-screen_53876-63379.jpg?_wi=2",
           imageAlt: "Sleek Black Smartphone on a Reflective Surface",
         },
       ]}
